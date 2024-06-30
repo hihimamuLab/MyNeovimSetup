@@ -10,6 +10,7 @@ return {
                 },
                 ensure_installed = "all"
             }
+            treesitter.setup(ts_opts)
         end
     }
 }

@@ -26,7 +26,7 @@ opt.hlsearch = true
 opt.incsearch = true
 opt.matchtime = 1
 opt.wrap = true
-opt.showtabline = 1
+opt.showtabline = 2
 opt.background = dark
 
 vim.cmd([[filetype plugin on]])
