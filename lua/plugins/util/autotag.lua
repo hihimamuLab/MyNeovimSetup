@@ -1,7 +1,7 @@
 return {
     {
         "windwp/nvim-ts-autotag",
-        lazy = false,
+        ft = "html",
         config = function ()
             local autotag = require("nvim-ts-autotag")
             autotag.setup({

@@ -4,8 +4,8 @@ return {
         lazy = false,
         dependencies = "nvim-lua/plenary.nvim",
         config = function ()
-            local telescope = require("telescope")
-            telescope.setup({})
+          local telescope = require("telescope")  
+          telescope.setup({})
         end,
     },
 }

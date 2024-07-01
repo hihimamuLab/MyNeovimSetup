@@ -28,6 +28,6 @@ opt.matchtime = 1
 opt.wrap = true
 opt.showtabline = 2
 opt.background = dark
+opt.completeopt = menuone,noinsert
 
 vim.cmd([[filetype plugin on]])
-vim.cmd([[let g:netrw_liststyle=3]])
