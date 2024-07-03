@@ -1,6 +1,8 @@
 # **My Neovim Setup**
 The neovim settings already built. <br>
-**This setup provides rust and html by default.**
+
+> [!IMPORTANT]
+> This setup provides rust and html by default.
 
 ## **Required**
 - [neovim](https://neovim.io) >= `0.10.0`
@@ -140,7 +142,11 @@ The neovim settings already built. <br>
 </details>
 
 ## **Install**
-**1.** ```git clone https://github.com/hihimamuLab/MyNeovimSetup nvim```
+**1.** 
+```
+git clone https://github.com/hihimamuLab/MyNeovimSetup nvim
+```
+
 in config dir yourself.
 
 - Windows: `C:\Users\<username>\Appdate\Local\`
@@ -179,3 +185,7 @@ _**Thanks for installing it!**_
 ### In insert mode
 - `TAB`: Help with completion by coc.nvim.
 - `<S-TAB>`: Help with completion by coc.nvim.
+
+> [!TIP]
+> These settings are almost defaults. <br>
+> For more cool customizations, see plugin documentations!
