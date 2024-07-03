@@ -15,7 +15,7 @@ The neovim settings already built. <br>
 - [A patched font](https://www.nerdfonts.com)(**Nerd Font**) : `Newish version`
 
 ## **Plugins**
-33 plugins(include 5 colorschemes)
+34 plugins(include 5 colorschemes)
 <details><summary>Plugin manager(1)</summary>
 
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
@@ -104,7 +104,7 @@ The neovim settings already built. <br>
 
 </details>
 
-<details><summary>Util(11)</summary>
+<details><summary>Util(12)</summary>
 
 - [nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag)
   - The plugin adds functions to `autoclose` and `autorename` html tags.
