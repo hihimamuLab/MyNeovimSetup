@@ -140,14 +140,19 @@ The neovim settings already built. <br>
 </details>
 
 ## **Install**
-1. ```git clone https://github.com/hihimamuLab/MyNeovimSetup nvim```
-in config dir yourself. <br>
+**1.** ```git clone https://github.com/hihimamuLab/MyNeovimSetup nvim```
+in config dir yourself.
+
 - Windows: `C:\Users\<username>\Appdate\Local\`
 - Mac and Linux: `~/.config/`
-2. Move to `nvim` dir.
-3. Remove `.git/`.
-4. Boot up Neovim.
-5. Relax and wait.
+  
+**2.** Move to `nvim` dir.
+
+**3.** Remove `.git/`.
+
+**4.** Boot up Neovim.
+
+**5.** Relax and wait.
 
 _**Thanks for installing it!**_
 
