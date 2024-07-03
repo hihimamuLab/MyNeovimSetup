@@ -1,8 +1,5 @@
 local keymap = vim.keymap
 
--- comment out keymap
-keymap.set("i", "<C-/>", "-- ")
-
 -- autopairs keymap
 keymap.set("i", "<", "<>")
 

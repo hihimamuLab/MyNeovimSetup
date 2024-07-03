@@ -1,11 +1,8 @@
 return {
     {
-        "neoclide/coc.nvim",
-        lazy = false,
-        branch = "release",
-        build = {
-            "npm install",
-            "npm ci",
-        },
+      "neoclide/coc.nvim",
+      lazy = false,
+      branch = "release",
+      build = "yarn install --frozen-lockfile"
     }
 }
