@@ -8,6 +8,7 @@ The neovim settings already built. <br>
 - [neovim](https://neovim.io) >= `0.10.0`
 - [nodejs](https://nodejs.org/en) >= `16.18.0`
 - [yarn](https://yarnpkg.com) : `Newish version`
+- [pnpm](https://pnpm.io): `Newish version`
 - [git](https://git-scm.com) : `Newish version`
 - [gcc](https://gcc.gnu.org) : `Newish version`
 - [libstdc++](https://gcc.gnu.org/onlinedocs/libstdc++/) : `Newish version`
@@ -138,6 +139,9 @@ The neovim settings already built. <br>
 - [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
   - The plugin provides an easy way to manage multiple terminal functions.
   - Creater: [akinsho](https://github.com/akinsho)
+- [live-server.nvim](https://github.com/barrett-ruth/live-server.nvim)
+  - The plugin provides live server function.
+  - Creater: [barrette-ruth](https://github.com/barrett-ruth)
 
 </details>
 
